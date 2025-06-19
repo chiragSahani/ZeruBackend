@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-logo-url.com/logo.png" alt="EigenLayer Restaking Backend" width="200"/>
+  <img src="https://res.cloudinary.com/dlyctssmy/image/upload/v1750367884/EigenLayer-Airdrop-Gif_lt4h02.gif" alt="EigenLayer Restaking Backend" width="200"/>
 </p>
 
 <h1 align="center">EigenLayer Restaking Data Backend</h1>
