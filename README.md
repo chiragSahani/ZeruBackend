@@ -266,14 +266,6 @@ The system automatically refreshes data based on the configured schedule:
 
 PRs and issues welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
----
 
-## 📄 License
 
-MIT
 
----
-
-## 📬 Contact
-
-Questions? Open an issue or reach out at [your-email@example.com](mailto:your-email@example.com)
